@@ -1,9 +1,4 @@
 
-// 150120013 Irem Aydin
-// 150120009 Hatice Yavuzsan
-// 150121013 Irem Kiranmezar
-
-
 import java.io.*;
 
 import java.text.ParseException;
